@@ -2,78 +2,47 @@ a:hover, a:active, a:visited, a:link {
   text-decoration: none;
 }
 
-.backimg{
-  background-image: url(../images/bg1.svg);
+.bodycolor{
+  background-color: #18BC9C;
 }
 
-.backcol-pink {
-  background-color: #ea1646;
+.name{
+color:black;
+font-size:50px;
+font-family: 'Open Sans', sans-serif;
 }
 
-.backcol-dp {
-  background-color: #170420;
+.mobile{
+color:black;
+font-size:16px;
+font-family: 'Open Sans', sans-serif;
 }
 
-.dp {
-  color: #170420;
+.words{
+color:black;
+font-size:17px;
+font-family: 'Open Sans', sans-serif;
 }
 
-.pink {
-  color: #ea1646;
-}
-
-.parallax {
-    /* Set a specific height */
-    height: 100%; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.viewport-height {
-    height: 100vh;
-    min-height: 100vh;
-}
-
-.caption {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  color: #000;
+.backcol{
+  background-color: #2C3E50;
 }
 
 .border {
-  background-color: #222;
-  color: #fff;
-  padding: 18px;
+  background-color: #fff;
+  color: #222;
+  padding: 10px;
   padding-left: 28px;
   font-size: 25px;
   letter-spacing: 10px;
 }
+
 
 .img50 {
   height: 50px;
   width: 50px;
 }
 
-.padbottom {
-  padding-bottom: 50px;
+.box{
+background-color:#f42421;
 }
-
-.marg {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
- /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed 
-@media only screen and (max-device-width: 1024px) {
-    .parallax {
-        background-attachment: scroll;
-    }
-}
-*/
