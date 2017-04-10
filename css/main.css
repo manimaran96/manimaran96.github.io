@@ -6,6 +6,15 @@ a:hover, a:active, a:visited, a:link {
   background-color: #18BC9C;
 }
 
+.centercol{
+  background-color: black;
+}
+
+.endcol{
+  background-color: #113a50;
+}
+
+
 .name{
 color:black;
 font-size:50px;
@@ -14,19 +23,18 @@ font-family: 'Open Sans', sans-serif;
 
 .mobile{
 color:black;
-font-size:16px;
-font-family: 'Open Sans', sans-serif;
+font-size:18px;
+margin-bottom:10px;
+font-family: Impact, Charcoal, sans-serif;
 }
 
 .words{
 color:black;
-font-size:17px;
+font-size:24px;
+margin-bottom:10px;
 font-family: 'Open Sans', sans-serif;
 }
 
-.backcol{
-  background-color: #2C3E50;
-}
 
 .border {
   background-color: #fff;
@@ -39,10 +47,15 @@ font-family: 'Open Sans', sans-serif;
 
 
 .img50 {
-  height: 50px;
-  width: 50px;
+  height: 45px;
+  width: 150px;
+}
+.img100 {
+  height: 55px;
+  width: 330px;
 }
 
-.box{
-background-color:#f42421;
+.dow{
+color:#ffffff;
+font-size:16px;
 }
