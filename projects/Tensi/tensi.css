@@ -1,0 +1,198 @@
+body
+{
+background : url("Images/bg.png");
+}
+.container
+{
+background : url("Images/header.png");
+width :980px;
+margin : 10px auto;
+min-height :1560px;
+padding :5px 0px;
+box-shadow :0px 0px 2px 6px;
+}
+.header
+{
+background-color :#fff;
+margin :10px 86px;
+min-height :160px;
+height :160px;
+}
+.menu
+{
+background :url("Images/menu.png");
+height :50px;
+}
+.menu div ul
+{
+list-style :none;
+padding :3px 160px;
+}
+.menu div ul li
+{
+display : inline-block;
+width : 125px;
+height :40px;
+line-height : 42px;
+}
+.menu div ul li :hover
+{
+background :url("Images/button.png");
+font-size :19px;
+}
+.menu div ul li a
+{
+text-decoration:none;
+font-family :"Adobe Hebrew";
+color :#d817a4;
+font-size :16px;
+padding :10px 13px;
+}
+.slideshow
+{
+height :370px;
+width :960px;
+margin : 10px auto;
+}
+.top
+{
+height :280px;
+width :760px;
+margin : 10px auto;
+}
+.si
+{
+height :120px;
+}
+.software
+{
+height :100px;
+width :470px;
+margin : 10px 10px;
+float :left;
+}
+.information
+{
+height :100px;
+width :470px;
+margin : 10px 10px;
+float :right;
+}
+.content
+{
+min-height :440px;
+}
+.con_left
+{
+background-color :#bbb4b9;
+font-family :"myraid pro";
+color :#000000;
+font-size :16px;
+padding :0px 10px;
+overflow :auto;
+width :450px;
+height :420px;
+margin : 10px 10px;
+float :left;
+}
+.con_left h1
+{
+background-color :#000000;
+font-family :"myraid pro";
+color :#fff;
+font-style :italic;
+font-size :30px;
+padding :0px 10px;
+}
+.con_left p
+{
+padding :0px 25px;
+}
+.con_left ol
+{
+padding :0px 60px;
+}
+.con_right
+{
+background-color :#bbb4b9;
+font-family :"myraid pro";
+color :#000000;
+font-size :16px;
+padding :0px 10px;
+min-height :420px;
+max-height :420px;
+overflow :auto;
+width :450px;
+margin : 10px 10px;
+float :right;
+}
+.con_right h1
+{
+background-color :#000000;
+font-family :"myraid pro";
+color :#fff;
+font-style :italic;
+font-size :30px;
+padding :0px 10px;
+}
+.con_right p
+{
+padding :0px 25px;
+}
+.con_right ol
+{
+padding :0px 70px;
+}
+.fooder
+{
+background-color :#589f99;
+color :#fff;
+font-style :italic;
+font-size :16px;
+height:70px;
+}
+.fooder a
+{
+text-decoration :none;
+}
+.fb
+{
+background :url("Images/fb1.png") no-repeat 0px 0px;
+text-indent :-100000px;
+height :36px;
+width :36px;
+float :left;
+}
+.fb:hover
+{
+background :url("Images/fb1.png") no-repeat -36px 0px;
+}
+.twitter
+{
+background :url("Images/twitter.png") no-repeat 0px 0px;
+text-indent :-100000px;
+height :36px;
+width :36px;
+float :left;
+}
+.twitter:hover
+{
+background :url("Images/twitter.png") no-repeat -36px 0px;
+}
+.gplus
+{
+background :url("Images/gplus.png") no-repeat 0px 0px;
+text-indent :-100000px;
+height :36px;
+width :36px;
+float :left;
+}
+.gplus:hover
+{
+background :url("Images/gplus.png") no-repeat -36px 0px;
+}
+.gtt
+{
+float : right;
+margin :-50px 70px;
+}
