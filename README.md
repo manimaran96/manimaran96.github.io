@@ -1,3 +1,3 @@
-## Manimaran's Info Page
+### Manimaran's Info Page
 
-maimaran96.github.io
+[manimaran96.github.io](manimaran96.github.io) redirect to [maimaran.gitlab.io](maimaran.gitlab.io)
